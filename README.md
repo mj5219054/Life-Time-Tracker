@@ -112,6 +112,10 @@ gulp nw --version 0.12.3
 1:30
 ```
 
+![a6n2g-xsmuf](https://user-images.githubusercontent.com/79394963/158547247-1402e6b4-c819-4b67-bd88-760ceedf3119.jpg)
+
+
+
 #### 日志格式
 
 其中涉及到几个分类的方式
@@ -127,6 +131,7 @@ gulp nw --version 0.12.3
 * 6）创造力
 * 7）智力与智商
 * 8）感知和感受的反馈
+![3](https://user-images.githubusercontent.com/79394963/158547317-c89cbc85-ca0d-4f1b-ba14-62183162ea3c.jpg)
 
 ##### 标签
 
