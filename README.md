@@ -7,16 +7,19 @@ Life Time Tracker
 Life Time Tracker是一个做个人时间统计的工具，工具，所以决定自己开发一个，顺便尝试一下`nwjs + react`的组合来开发桌面App，同时也实践近一段时间在学习的数据可视化。
 
 1.了解生命的意义
+![137](https://user-images.githubusercontent.com/79394963/159815968-6879673f-6767-4143-a31c-37fd6dcffb14.png)
 
 2. 情感与建立关系发展和分离（（阅历并不是由年龄决定，而是由生活时间和事件密度决定的）
 
 3. 学习和体验
+![157](https://user-images.githubusercontent.com/79394963/159816056-1c35f466-8be5-4e8b-9e34-4e324af47b01.png)
 
 4. 了解自我
 
 5. 完善和实现自我
 
 6. 马斯洛的需求层次结构（最重要的是心理上的自由）
+![214](https://user-images.githubusercontent.com/79394963/159816091-3a136a58-e744-4417-b6c9-7f6eba6fec2e.png)
 
 7. 身体和脑子的反馈机制（个人 群体）
 
