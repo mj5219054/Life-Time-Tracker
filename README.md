@@ -359,6 +359,8 @@ Dashboard
 * 导航系统：愿景
 * 坚持做长期有复利的事情
 
+* ![系统日志](https://github.com/mj5219054/Life-Time-Tracker/blob/master/log/REME1.md)
+
 
 
 ### License
